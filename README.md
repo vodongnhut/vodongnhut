@@ -59,8 +59,6 @@ brew install --cask vodongnhut/net/net
 <img src="https://github-readme-stats.vercel.app/api?username=vodongnhut&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodongnhut&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vodongnhut&theme=github-dark-blue&hide_border=true" alt="Contribution streak">
-
 </div>
 
 <div align="center">
