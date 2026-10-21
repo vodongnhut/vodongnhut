@@ -1,41 +1,70 @@
 <div align="center">
 
+<img src="avatar-round.png" width="180" alt="Nhựt Võ">
+
 # Nhựt Võ
 
-**Senior Full Stack Developer · 15 years of experience**
+**Senior Full Stack Developer · 15 years shipping software**
 
-### From Rails applications to Kubernetes on AWS.
-Building software, running infrastructure, and orchestrating AI teams.
+Rails · Next.js · Kubernetes · AWS · Swift · AI agent orchestration
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agent_Orchestration-6D28D9?style=for-the-badge)
+[![Nét](https://img.shields.io/badge/N%C3%A9t-macOS%20writing%20assistant-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/vodongnhut/net-releases)
+[![Homebrew](https://img.shields.io/badge/brew%20install-vodongnhut%2Fnet%2Fnet-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)](https://github.com/vodongnhut/homebrew-net)
+[![Gmail](https://img.shields.io/badge/vodongnhut%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vodongnhut@gmail.com)
 
 </div>
 
 ---
 
-## Across the stack
+## What I do
 
-I'm a senior developer with **15 years of experience**, combining full stack development with deep expertise in **Kubernetes, AWS, and Ruby on Rails**. I work across application code and cloud infrastructure, connecting how software is built with how it runs.
+I build products end to end: backend APIs, web frontends, mobile apps, and the cloud they run on. Over 15 years I have gone from Rails monoliths to Kubernetes clusters on AWS, and lately to running **AI agents as an engineering team** that I direct, review, and stay accountable for.
 
-| Focus | What I bring |
+| Layer | Stack |
 | :--- | :--- |
-| **Kubernetes** | Deep hands-on expertise in container orchestration and platform operations. |
-| **AWS** | Cloud infrastructure, deployment, and operations. |
-| **Ruby on Rails** | Backend engineering and full stack application development. |
-| **Full stack** | Connecting frontend, backend, and infrastructure into a working product. |
-| **AI orchestration** | Building and managing AI agents as a coordinated engineering team. |
+| **Backend** | Ruby on Rails, PostgreSQL, Redis, Sidekiq, REST / GraphQL APIs |
+| **Frontend** | Next.js, React, React Router, TypeScript |
+| **Mobile & native** | Flutter, Swift 6 / SwiftUI / AppKit |
+| **Infrastructure** | Kubernetes, AWS, Terraform, Docker, CI/CD |
+| **AI** | Claude Code, agent orchestration, LLM-powered tooling |
 
-## AI as an engineering team
+## Featured: Nét
 
-I use AI as part of how I build software. I can **build, direct, and manage AI agents as a team**, combining senior engineering judgment with coordinated execution.
+A native macOS menu-bar assistant that corrects, rewrites and translates your text wherever you type, Slack drafts included. Written in Swift 6 with SwiftUI and AppKit, no Xcode project, credentials in Keychain, updates via Sparkle.
 
-My approach:
+```sh
+brew install --cask vodongnhut/net/net
+```
 
-- **Define the goal** — turn a problem into clear, scoped tasks.
-- **Organize the team** — give agents focused roles and coordinate their work.
-- **Stay accountable** — review the output, validate behavior, and own the result.
+[Releases](https://github.com/vodongnhut/net-releases/releases) · [Homebrew tap](https://github.com/vodongnhut/homebrew-net)
 
-> **15 years of engineering experience. A full stack perspective. An AI team at work.**
+## Tech I reach for
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ruby,rails,nextjs,react,ts,flutter,swift,kubernetes,aws,terraform,docker,postgres,redis,git&perline=7" alt="Tech stack">
+
+</div>
+
+## How I work with AI
+
+- **Define the goal.** Turn a vague problem into scoped, verifiable tasks.
+- **Organize the team.** Give each agent a focused role and the context it needs.
+- **Stay accountable.** Review every output, run the tests, own the result.
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vodongnhut&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodongnhut&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vodongnhut&theme=github-dark-blue&hide_border=true" alt="Contribution streak">
+
+</div>
+
+<div align="center">
+
+**Based in Vietnam · Building for people who write every day**
+
+</div>
